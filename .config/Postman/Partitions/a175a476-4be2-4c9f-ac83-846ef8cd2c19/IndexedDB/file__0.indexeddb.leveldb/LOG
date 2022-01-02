@@ -1,0 +1,29 @@
+2021/10/14-21:09:37.438 3f07 Reusing MANIFEST /home/max/.config/Postman/Partitions/a175a476-4be2-4c9f-ac83-846ef8cd2c19/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2021/10/14-21:09:37.463 3f07 Level-0 table #5: started
+2021/10/14-21:09:37.472 3f07 Level-0 table #5: 494 bytes OK
+2021/10/14-21:09:37.486 3f07 Delete type=0 #3
+2021/10/14-21:09:37.486 3f1a Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/10/14-21:09:37.513 3fda Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/10/14-21:09:44.917 3f6e Level-0 table #7: started
+2021/10/14-21:09:44.928 3f6e Level-0 table #7: 40936 bytes OK
+2021/10/14-21:09:44.935 3f6e Delete type=0 #4
+2021/10/14-21:09:44.936 3f6e Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/10/14-21:09:46.950 3f1a Level-0 table #9: started
+2021/10/14-21:09:46.955 3f1a Level-0 table #9: 221 bytes OK
+2021/10/14-21:09:46.963 3f1a Delete type=0 #6
+2021/10/14-21:09:46.963 3f1a Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x00\x00\x002\x02\xdf\x01\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 2939 : 0
+2021/10/14-21:09:46.963 3f1a Compacting 1@0 + 1@1 files
+2021/10/14-21:09:46.971 3f1a Generated table #10@0: 1564 keys, 20602 bytes
+2021/10/14-21:09:46.971 3f1a Compacted 1@0 + 1@1 files => 20602 bytes
+2021/10/14-21:09:46.978 3f1a compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/10/14-21:09:46.979 3f1a Delete type=2 #9
+2021/10/14-21:09:46.979 3f1a Delete type=2 #7
+2021/10/14-21:09:46.979 3f1a Manual compaction at level-0 from '\x00\x00\x00\x002\x02\xdf\x01\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 2939 : 0 .. (end); will stop at (end)
+2021/10/14-21:09:46.979 3f1a Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x04\x01\x02\x01\x0b\x00p\x00o\x00s\x00t\x00m\x00a\x00n\x00-\x00a\x00p\x00p' @ 2782 : 1
+2021/10/14-21:09:46.979 3f1a Compacting 1@1 + 1@2 files
+2021/10/14-21:09:46.986 3f1a Generated table #11@1: 597 keys, 12438 bytes
+2021/10/14-21:09:46.986 3f1a Compacted 1@1 + 1@2 files => 12438 bytes
+2021/10/14-21:09:46.994 3f1a compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/10/14-21:09:46.994 3f1a Delete type=2 #5
+2021/10/14-21:09:46.994 3f1a Delete type=2 #10
+2021/10/14-21:09:46.994 3f1a Manual compaction at level-1 from '\x00\x04\x01\x02\x01\x0b\x00p\x00o\x00s\x00t\x00m\x00a\x00n\x00-\x00a\x00p\x00p' @ 2782 : 1 .. (end); will stop at (end)

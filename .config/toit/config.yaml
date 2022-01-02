@@ -1,0 +1,18 @@
+analytics:
+  cid: 0dbd5efc-2c2b-4fa6-ab3d-411588a30777
+  disabled: true
+contexts:
+- cluster: remote
+  name: remote
+  settings: {}
+  user: remote--maxwickhammonro@gmail.com
+current_context: remote
+users:
+- name: remote--maxwickhammonro@gmail.com
+  username: maxwickhammonro@gmail.com
+  organization_id: 0a0cc974-313e-444e-86f5-942326fac438
+  token:
+    access_token: eyJhbGciOiJFZERTQSIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJmZWIzZGJmOS00YmJhLTQ0NzktOTZhZi0wYTI0ODEwNWM0Y2EiLCJleHAiOjE2MzY1NjA0MzcsImp0aSI6IjgwZGQxNjgwLWZlYzgtNGNlYi1hNzVkLTA5NjFiOTExZWUyMCIsInN1YiI6ImYxZTNlZjAzLWI5ODMtNDY5Yi1hYjU3LWQ4MmRiYjhjNzU2MyIsIm9yZ2lkIjoiMGEwY2M5NzQtMzEzZS00NDRlLTg2ZjUtOTQyMzI2ZmFjNDM4IiwiY3JlYXRlZCI6MTYzNjU1ODYzNzI4NzY5OTkwN30.eGEL6WvwsFutVPEpQLmYf35_kMyiRL0jkbjnEHjkbZ1RjA_-BzjKHQDF5mAuyCo4x2lNZQk3q9on5Le3uFdGAg
+    refresh_token: Y2EyODNiYTUtNjM3MS00MTM3LTg0ZDktNjIyODUwNDBkODNjOjBhMGNjOTc0LTMxM2UtNDQ0ZS04NmY1LTk0MjMyNmZhYzQzOA
+    expires_at: 2021-11-10T16:07:17.323104354Z
+    token_type: Bearer

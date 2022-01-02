@@ -1,0 +1,27 @@
+#! /bin/python3
+import argparse
+import pyAesCrypt
+from getpass import getpass
+
+parser = argparse.ArgumentParser(description='An ecryption program')
+
+parser.add_argument("input_file", help="The input filename")
+parser.add_argument("-o","--output",help="The output filename")
+parser.add_argument("-e","--encrypt",help="Encrypt the file",action="store_true",default=False)
+parser.add_argument("-d","--decrypt",help="Decrypt the file",action="store_true",default=False)
+args = parser.parse_args()
+
+password = getpass("Password:")
+bufferSize = 64 * 1024
+
+if args.encrypt:
+    pyAesCrypt.encryptFile(args.input_file, args.output, password, bufferSize)
+    print("Encrypted file")
+elif args.decrypt:
+    pyAesCrypt.decryptFile(args.input_file, args.output, password, bufferSize)
+    print("Decrypted file")
+else:
+    print("Add encrpyt or decrypt argument")
+
+
+

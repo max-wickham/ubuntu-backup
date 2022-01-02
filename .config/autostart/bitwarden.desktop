@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Version=1.28.3
+Name=Bitwarden
+Comment=Bitwarden startup script
+Exec=/tmp/.mount_BitwarXvfzFQ/bitwarden
+StartupNotify=false
+Terminal=false

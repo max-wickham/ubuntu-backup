@@ -1,0 +1,17 @@
+[Desktop Entry]
+FullScreen=false
+
+[MainWindow]
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAOeAAAABAAAAAQAAAAIAAAACPwAAAACAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAAgAAAAEAAAAiAGEAbgBuAG8AdABhAHQAaQBvAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+XWAYLAND0 Height 1920x1080=1022
+XWAYLAND0 Width 1920x1080=1920
+XWAYLAND0 Window-Maximized 1920x1080=true
+XWAYLAND0 XPosition 1920x1080=0
+XWAYLAND0 YPosition 1920x1080=58
+
+[Recent Files]
+File1[$e]=$HOME/Sync/Imperial/Year3/MachineLearning/CalTechSlides/slides14.pdf
+File2[$e]=$HOME/Sync/Imperial/Year3/AutumnTermExamTimetable.pdf
+Name1[$e]=slides14.pdf
+Name2[$e]=AutumnTermExamTimetable.pdf

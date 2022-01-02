@@ -1,0 +1,20 @@
+2021/11/27-18:45:14.799 949d Reusing MANIFEST /home/max/.config/Postman/Partitions/245bbd32-ab4e-4210-9402-da7906d51d64/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2021/11/27-18:45:14.799 949d Recovering log #20
+2021/11/27-18:45:14.799 949d Reusing old log /home/max/.config/Postman/Partitions/245bbd32-ab4e-4210-9402-da7906d51d64/IndexedDB/file__0.indexeddb.leveldb/000020.log 
+2021/11/27-18:45:28.178 94e3 Level-0 table #24: started
+2021/11/27-18:45:28.184 94e3 Level-0 table #24: 7931 bytes OK
+2021/11/27-18:45:28.192 94e3 Delete type=0 #20
+2021/11/27-18:45:28.192 94e3 Manual compaction at level-0 from '\x00\x08\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at '\x00\x08\x00\x00\x05' @ 3154 : 1
+2021/11/27-18:45:28.192 94e3 Compacting 1@0 + 1@1 files
+2021/11/27-18:45:28.198 94e3 Generated table #25@0: 54 keys, 4137 bytes
+2021/11/27-18:45:28.198 94e3 Compacted 1@0 + 1@1 files => 4137 bytes
+2021/11/27-18:45:28.205 94e3 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/11/27-18:45:28.206 94e3 Delete type=2 #24
+2021/11/27-18:45:28.206 94e3 Manual compaction at level-0 from '\x00\x08\x00\x00\x05' @ 3154 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/11/27-18:45:47.289 950c Compacting 1@1 + 1@2 files
+2021/11/27-18:45:47.296 950c Generated table #26@1: 599 keys, 12520 bytes
+2021/11/27-18:45:47.296 950c Compacted 1@1 + 1@2 files => 12520 bytes
+2021/11/27-18:45:47.302 950c compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/11/27-18:45:47.303 950c Delete type=2 #18
+2021/11/27-18:45:47.303 950c Delete type=2 #21
+2021/11/27-18:45:47.303 950c Delete type=2 #25

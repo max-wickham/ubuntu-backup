@@ -1,0 +1,76 @@
+<application>
+  <component name="JdkInstallerHistory">
+    <option name="installedItems">
+      <installed-jdk>
+        <option name="fullText" value="Amazon Corretto 16.0.2" />
+        <option name="installDir" value="$USER_HOME$/.jdks/corretto-16.0.2" />
+        <option name="javaHomeDir" value="$USER_HOME$/.jdks/corretto-16.0.2" />
+        <option name="sha256" value="dd2ef25ee1fe842eb5381a6b62af5c17bb2886e96d44df6e39c0831cb42a7a7a" />
+        <option name="url" value="https://corretto.aws/downloads/resources/16.0.2.7.1/amazon-corretto-16.0.2.7.1-linux-x64.tar.gz" />
+        <option name="versionText" value="16.0.2" />
+      </installed-jdk>
+    </option>
+  </component>
+  <component name="ProjectPluginTrackerManager">
+    <trackers>
+      <map>
+        <entry key="1l6kgi2976WPYgdgmWhylyf7i45">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1zUrerD4mYlF00GrSdKIh7oT5uG">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1zUwDx6scaV5ImkzTRpF8LA2sBV">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+      </map>
+    </trackers>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="FindSplitterProportion" value="0.33022255" />
+    <property name="Markdown Split EditorLayout" value="Editor only" />
+    <property name="MarketplacePluginsSearchHistory" value="themes&#10;theme" />
+    <property name="NextRunPlatformUpdateBuild" value="IU-212.5457.46/2021.2.3" />
+    <property name="NextRunPlatformUpdateVersion" value="2021.2.3" />
+    <property name="NonModalCommitCustomization.IsApplied" value="true" />
+    <property name="appcds.runOnSecondStart" value="IU-212.5284.40-21ddfee080a8b997d62762bfc9d03f24089d900a5b23bf0dc87e45532aa66949" />
+    <property name="ask.about.ctrl.y.shortcut.v2" value="true" />
+    <property name="build.toolwindow.Sync.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="eclipse.projects.detected" value="" />
+    <property name="evlsprt3.212" value="19" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/Goldex&#10;/home/max/Sync/Goldex&#10;/home/max/Sync/Goldex/eldorado-poc_quartz" />
+    <property name="file.gist.reindex.count" value="29" />
+    <property name="fileTypeChangedCounter" value="4" />
+    <property name="fileTypeDetectors" value="com.android.tools.idea.fileTypes.profiler.MemoryCaptureFileType$Detector:com.android.tools.idea.sqlite.fileType.SqliteFileTypeDetector:com.intellij.database.vfs.DbStorageFileType$Detector:com.intellij.ide.scratch.ScratchFileServiceImpl$Detector:com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector:com.intellij.profiler.ultimate.hprof.impl.HprofFileTypeDetector:com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector:com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector:org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector" />
+    <property name="got.it.tooltip.cwm.invitation.notification" value="1" />
+    <property name="ide.memory.adjusted" value="true" />
+    <property name="ide.updates.previous.build.number" value="IU-212.5284.40" />
+    <property name="ide.updates.whats.new.shown.for" value="212" />
+    <property name="input.method.disabler.muted" value="true" />
+    <property name="installed.kotlin.plugin.version" value="212-1.5.10-release-IJ5284.40" />
+    <property name="kotlin-gradle-user-dirs" value="$USER_HOME$/.gradle" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Sync/Goldex/eldorado-poc_quartz" />
+    <property name="log.trace.categories" value="#com.jetbrains.rdserver.requests&#10;#com.jetbrains.rd.ide.document&#10;#com.jetbrains.rdserver.document&#10;#com.jetbrains.rdserver.editors&#10;#com.jetbrains.rdserver.actions&#10;#com.jetbrains.rdserver.permissions" />
+    <property name="packagesearch.endpoint.url.fulltext" value="https://package-search.services.jetbrains.com/api/search/idea/fulltext" />
+    <property name="packagesearch.endpoint.url.suggest" value="https://package-search.services.jetbrains.com/api/search/idea/suggest" />
+    <property name="packagesearch.status.updated.ts" value="1636364227958" />
+    <property name="registry.to.advanced.settings.migration.build" value="IU-212.5284.40" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+    <property name="ts.lib.d.ts.version" value="4.3.5" />
+  </component>
+  <component name="TerminalCommandHistoryManager">
+    <command-history-files>
+      <command-history-file filename="Goldex-history" project-path="$USER_HOME$/Sync/Goldex" last-access-time="1634215819971" />
+      <command-history-file filename="Goldex-history1" project-path="$USER_HOME$/Goldex" last-access-time="1636364233507" />
+    </command-history-files>
+  </component>
+  <component name="ToolbarSettingsService">
+    <option name="NEW_TOOLBAR_SETTINGS" value="OLD_NAVBAR" />
+  </component>
+</application>

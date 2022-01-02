@@ -1,0 +1,15 @@
+[Default Applications]
+x-scheme-handler/postman=Postman.desktop
+x-scheme-handler/msteams=teams.desktop
+text/x-arduino=arduino-arduinoide.desktop
+text/html=obsidian.desktop
+x-scheme-handler/obsidian=obsidian.desktop
+
+[Added Associations]
+text/markdown=typora.desktop;abricotine.desktop;
+text/plain=abricotine.desktop;
+image/svg+xml=org.inkscape.Inkscape.desktop;org.gnome.eog.desktop;
+application/pdf=masterpdfeditor5.desktop;com.github.xournalpp.xournalpp.desktop;
+text/html=firefox.desktop;
+video/x-msvideo=vlc.desktop;
+application/x-shellscript=org.gnome.gedit.desktop;

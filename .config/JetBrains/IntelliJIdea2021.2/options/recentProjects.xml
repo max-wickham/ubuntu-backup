@@ -1,0 +1,45 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/Sync/Goldex/eldorado-poc_quartz">
+          <value>
+            <RecentProjectMetaInfo frameTitle="eldorado-poc_quartz – README.md [eldorado-poc_quartz]" projectWorkspaceId="1zUrerD4mYlF00GrSdKIh7oT5uG">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-212.5284.40" />
+              <option name="buildTimestamp" value="1631597513589" />
+              <frame x="0" y="25" width="1920" height="1055" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1634213608043" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Sync/Goldex">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Goldex – What's New in IntelliJ IDEA" projectWorkspaceId="1l6kgi2976WPYgdgmWhylyf7i45">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-212.5284.40" />
+              <option name="buildTimestamp" value="1631597513589" />
+              <frame x="0" y="25" width="1920" height="1055" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1634213917536" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Goldex">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Goldex – kitco/…/NewOrderTests.java" opened="true" projectWorkspaceId="1zUwDx6scaV5ImkzTRpF8LA2sBV">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-212.5284.40" />
+              <option name="buildTimestamp" value="1631597470800" />
+              <frame x="1610" y="0" width="1910" height="789" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1634215859090" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/Sync/Goldex" />
+  </component>
+</application>

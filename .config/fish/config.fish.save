@@ -1,0 +1,21 @@
+set fish_greeting
+set -U fish_user_paths /home/max/bin $fish_user_paths
+function env
+	python3 -m venv ./env
+	echo "*" > ./env/.gitignore
+end
+function activate
+	source ./env/bin/activate.fish
+end
+function pfreeze
+	pip freeze > requirements.txt
+end
+function pinstall
+	pip install -r requirements.txt
+end
+function remove_fish
+set END tail -1 ~/.b 
+	if  [END = "fish"]
+		sed '$d' ~/.bashrc
+	end
+end

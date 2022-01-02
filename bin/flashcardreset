@@ -1,0 +1,25 @@
+#!/usr/bin/env python3
+import argparse
+
+parser = argparse.ArgumentParser(description='A program to reset fashcard dates')
+
+parser.add_argument("input_file", help="The input filename")
+args = parser.parse_args()
+
+file = open(args.input_file,"r")
+lines = file.readlines()
+file.close()
+import datetime
+date = datetime.datetime.now()
+result = ""
+for line in lines:
+	if "<!--SR:!" in line:
+		line = line[:8] + "{}-{}-{}".format(date.year,date.month,date.day) + line[18:]
+	result += line
+file = open(args.input_file,"w")
+file.write(result)
+file.close()
+
+
+
+

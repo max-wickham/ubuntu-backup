@@ -1,0 +1,23 @@
+<application>
+  <component name="WindowManager">
+    <frame x="1610" y="0" width="1910" height="789" extendedState="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+    </layout>
+  </component>
+  <component name="WindowStateApplicationService">
+    <state x="743" y="234" width="424" height="484" key="FileChooserDialogImpl" timestamp="1634213602074">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state x="743" y="234" width="424" height="484" key="FileChooserDialogImpl/0.25.1920.1055" timestamp="1634213602074" />
+    <state x="960" y="476" width="800" height="600" key="WELCOME_SCREEN" timestamp="1634213578109">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state x="960" y="476" width="800" height="600" key="WELCOME_SCREEN/0.25.1920.1055" timestamp="1634213578109" />
+  </component>
+</application>

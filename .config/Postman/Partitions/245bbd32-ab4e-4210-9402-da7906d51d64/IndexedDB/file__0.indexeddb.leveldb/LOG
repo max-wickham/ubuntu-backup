@@ -1,0 +1,7 @@
+2021/11/29-21:13:07.059 66a6 Reusing MANIFEST /home/max/.config/Postman/Partitions/245bbd32-ab4e-4210-9402-da7906d51d64/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2021/11/29-21:13:07.060 66a6 Recovering log #23
+2021/11/29-21:13:07.061 66a6 Reusing old log /home/max/.config/Postman/Partitions/245bbd32-ab4e-4210-9402-da7906d51d64/IndexedDB/file__0.indexeddb.leveldb/000023.log 
+2021/11/29-21:13:21.538 66a0 Level-0 table #29: started
+2021/11/29-21:13:21.544 66a0 Level-0 table #29: 68819 bytes OK
+2021/11/29-21:13:21.551 66a0 Delete type=0 #23
+2021/11/29-21:13:21.551 66a0 Manual compaction at level-0 from '\x00\x09\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0a\x00\x00\x00' @ 0 : 0; will stop at (end)

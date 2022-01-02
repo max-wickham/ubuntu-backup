@@ -1,0 +1,20 @@
+[Data Source]
+DisplayName=maxwickhammonro@gmail.com
+Enabled=true
+Parent=63ac748dd7951b1d7a75a33509374e58fea21e6a
+
+[Authentication]
+Host=smtp.gmail.com
+Method=XOAUTH2
+Port=465
+ProxyUid=system-proxy
+RememberPassword=true
+User=maxwickhammonro@gmail.com
+CredentialName=
+IsExternal=false
+
+[Security]
+Method=ssl-on-alternate-port
+
+[Mail Transport]
+BackendName=smtp

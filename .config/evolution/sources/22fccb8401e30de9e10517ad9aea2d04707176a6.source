@@ -1,0 +1,29 @@
+[Data Source]
+DisplayName=maxwickhammonro@gmail.com
+Enabled=true
+Parent=63ac748dd7951b1d7a75a33509374e58fea21e6a
+
+[Mail Submission]
+SentFolder=folder://local/Sent
+TransportUid=df20698770b1b07454b66f45a2b8d2c7397b3cdf
+RepliesToOriginFolder=false
+UseSentFolder=true
+
+[Mail Composition]
+Bcc=
+Cc=
+DraftsFolder=folder://local/Drafts
+ReplyStyle=default
+SignImip=true
+TemplatesFolder=
+StartBottom=inconsistent
+TopSignature=inconsistent
+Language=
+
+[Mail Identity]
+Address=maxwickhammonro@gmail.com
+Aliases=
+Name=
+Organization=
+ReplyTo=
+SignatureUid=none
